@@ -4,6 +4,20 @@
 	"title": "[PLDC] Bai 1",
 	"description": "",
 	"file": "Bai1.quiz",
-	"count": 178
+	"count": 38
+  },
+  {
+	"id": "Bai2.1",
+	"title": "[PLDC] Bai 2.1",
+	"description": "",
+	"file": "Bai2.1.quiz",
+	"count": 25
+  },
+   {
+	"id": "Bai2.2",
+	"title": "[PLDC] Bai 2.2",
+	"description": "",
+	"file": "Bai2.2.quiz",
+	"count": 39
   }
 ]
