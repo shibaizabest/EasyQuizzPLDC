@@ -40,5 +40,33 @@
 	"description": "",
 	"file": "Bai5.quiz",
 	"count": 35
+  },
+  {
+	"id": "Bai6.1",
+	"title": "[PLDC] Bai 6.1",
+	"description": "",
+	"file": "Bai6.1.quiz",
+	"count": 33
+  },
+  {
+	"id": "Bai6.2",
+	"title": "[PLDC] Bai 6.2",
+	"description": "",
+	"file": "Bai6.2.quiz",
+	"count": 31
+  },
+  {
+	"id": "Bai6.3",
+	"title": "[PLDC] Bai 6.3",
+	"description": "",
+	"file": "Bai6.3.quiz",
+	"count": 33
+  },
+  {
+	"id": "Bai6.4",
+	"title": "[PLDC] Bai 6.4",
+	"description": "",
+	"file": "Bai6.4.quiz",
+	"count": 43
   }
 ]
